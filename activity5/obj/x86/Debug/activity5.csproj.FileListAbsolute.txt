@@ -1,0 +1,6 @@
+/home/furkan/Projects/activity5/activity5/bin/Debug/activity5.exe
+/home/furkan/Projects/activity5/activity5/bin/Debug/activity5.pdb
+/home/furkan/Projects/activity5/activity5/obj/x86/Debug/activity5.csproj.AssemblyReference.cache
+/home/furkan/Projects/activity5/activity5/obj/x86/Debug/activity5.csproj.CoreCompileInputs.cache
+/home/furkan/Projects/activity5/activity5/obj/x86/Debug/activity5.exe
+/home/furkan/Projects/activity5/activity5/obj/x86/Debug/activity5.pdb
